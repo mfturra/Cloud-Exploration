@@ -1,8 +1,8 @@
-# Launching Apache Ubuntu Server on AWS EC2 T2 Micro Instance
+## Launching Apache Ubuntu Server on AWS EC2 T2 Micro Instance
 1. Configure and launch the AWS Cloud hardware server (i.e. Ubuntu OS server)
 2. SSH into it and take the following steps to configure your Apache server.
 
-## Requirements
+### Requirements
 Ubuntu server has already been stood up.
 Apache build is for a Ubuntu 20.04 or 22.04 server.
 User has a fundamental understanding how to build a Flask app using Python.
